@@ -1,0 +1,6 @@
+# This is comment
+
+*.js
+node_modules/
+assets/videos/
+!app.js
