@@ -1,8 +1,3 @@
 one funciton - I have added a very importan tfunciton here.
 two funciton - I have added another fd very importan tfunciton here.
 three funciton - I have added another two fd very importan tfunciton here.
-
-
-
-New function - new functio added
-Gfunction - new funciton added.
